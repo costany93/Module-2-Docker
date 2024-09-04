@@ -1,0 +1,2 @@
+# ce fichier nous permet d'ignore certians fichier dans l'instruction COPY
+node_modules
